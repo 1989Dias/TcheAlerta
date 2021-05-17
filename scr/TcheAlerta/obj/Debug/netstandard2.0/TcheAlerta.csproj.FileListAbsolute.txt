@@ -1,0 +1,100 @@
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.deps.json
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\EditarAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoContatoPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.CoreCompileInputs.cache
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfoInputs.cache
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfo.cs
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\App2\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csprojAssemblyReference.cache
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.deps.json
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csprojAssemblyReference.cache
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\EditarAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoContatoPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.CoreCompileInputs.cache
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfoInputs.cache
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfo.cs
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App2 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.deps.json
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\AlertaRecebidoPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\EditarAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoContatoPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.CoreCompileInputs.cache
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfoInputs.cache
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfo.cs
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csprojAssemblyReference.cache
+C:\Users\userplay\Documents\GitHub\App3 - Copia\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\ContatosPickerPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.deps.json
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\bin\Debug\netstandard2.0\en-US\TcheAlerta.resources.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csprojAssemblyReference.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AppResources.en-US.resources
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.GenerateResource.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\AlertaRecebidoPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.CoreCompileInputs.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfoInputs.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfo.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\en-US\TcheAlerta.resources.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\TcheAlerta\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AppResources.resources
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.deps.json
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\bin\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\bin\Debug\netstandard2.0\TcheAlerta.pdb
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\bin\Debug\netstandard2.0\en-US\TcheAlerta.resources.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csprojAssemblyReference.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AppResources.resources
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AppResources.en-US.resources
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.GenerateResource.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\Views\AlertaRecebidoPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\Views\CardViewTemplate.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\Views\NovoAlertaPage.xaml.g.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.csproj.CoreCompileInputs.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfoInputs.cache
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.AssemblyInfo.cs
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\en-US\TcheAlerta.resources.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\ref\TcheAlerta.dll
+C:\Users\userplay\Documents\GitHub\TcheAlerta\scr\TcheAlerta\obj\Debug\netstandard2.0\TcheAlerta.pdb

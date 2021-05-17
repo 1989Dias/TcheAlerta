@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"            
+             Title="Tchê Alerta"  
+             x:Class="TcheAlerta.Views.AlertaRecebidoPage">
+    <ContentPage.ToolbarItems>
+        <!--<ToolbarItem Order="Primary" Clicked="ToolbarItem_Clicked"  Icon="share.png" />-->
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label Text="{Binding Titulo}"
+                   FontSize="Medium"
+                   TextColor="#f35e20" />
+            <Label Text="{Binding Observacao}"    
+                   FontSize="Large"
+                   TextColor="#503026" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
